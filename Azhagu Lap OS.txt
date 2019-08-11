@@ -1,0 +1,17 @@
+Disable Mcafee n delete unwanted files 
+
+prefetch
+temp
+%temp%
+
+Disk Cleanup on C drive right click
+
+select all and clean 
+
+services.msc
+
+windows update in service and MANUAL
+
+1250749169-Atul MS service req
+
+http://jira.telepacific.com/i#browse/ITCSDI-2 
